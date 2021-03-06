@@ -5,5 +5,6 @@ public class Main {
         User u2 = new User("ll@ll.pl","ll");
         System.out.println(u1);
         System.out.println(u2);
+        System.out.println("STOP");
     }
 }
