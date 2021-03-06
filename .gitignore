@@ -1,0 +1,10 @@
+# plik zawierający informacje o plikach lub katalogach które są wyłączone z śledzenia
+# 1. katalogi
+.idea/
+out/
+# 2. pliki
+# example.ext
+# 3. kategorie plików
+# *.ext
+# 4. aktywacja śledzenia mimo wyłączenia
+# !example1.ext
