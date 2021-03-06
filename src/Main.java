@@ -6,5 +6,6 @@ public class Main {
         System.out.println(u1);
         System.out.println(u2);
         System.out.println("STOP");
+        System.out.println(System.getProperty("java.version"));
     }
 }
